@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://robduby76.github.io/checklight/sitemap.xml
